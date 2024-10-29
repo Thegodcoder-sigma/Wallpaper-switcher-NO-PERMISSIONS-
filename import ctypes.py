@@ -1,9 +1,11 @@
+#Password is Duranta
+
 import ctypes
 import os
 import tkinter as tk
 from tkinter import filedialog, messagebox
 
-PASSWORD = "secure123"
+PASSWORD = "Duranta"
 
 def change_wallpaper(image_path):
     if not os.path.isfile(image_path):
